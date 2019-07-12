@@ -20,7 +20,7 @@ Then extract it and copy to folder 'data_new'. Read the .csv file to know how to
 
 ## Some results
 
-![](https://github.com/SuHuynh/License-Plate-Recognition---Pytorch/results/Picture1.png)
+![results on Russion License Plate](https://github.com/SuHuynh/License-Plate-Recognition---Pytorch/results/Picture1.png)
 
 ## Reference
 The code is referenced from this paper: Sergey Zherzdev, Alexey Gruzdev, "LPRNet: License Plate Recognition via Deep Neural Networks", 2018
